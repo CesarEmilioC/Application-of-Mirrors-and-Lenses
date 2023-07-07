@@ -1,4 +1,4 @@
-# Aplicación de Espejos y Lentes
-## Calculadora de Espejos y Lentes
+# Application of Mirrors and Lenses
+## Mirror and Lenses Calculator
 
-Esta aplicación desarrollada por su servidor, Cesar Castaño, usa python como software para graficar y resolver problemas básicos relacionados con los 5 tipos de espejos y lentes más conocidos: plano, cóncavo, convexo, divergente y convergente.
+This software has a friendly interface (developed with Tkinter in Pyhton) in order to solve the unknowns in problems related to the 5 most well-known mirrors and/or lenses: flat mirror, concave mirror, convex mirror, concave lens, and convex lens.
